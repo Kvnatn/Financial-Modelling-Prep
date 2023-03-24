@@ -105,7 +105,7 @@
    "outputs": [],
    "source": [
     "# Because I want to share this file on Github, I made sure that it's not showing the actual key.\n",
-    "key=pd.read_csv('/Users/kevinrakotondrasoa/Documents/coding/key.txt', header=None)[0][0]"
+    "key=pd.read_csv('/key.txt', header=None)[0][0]"
    ]
   },
   {
