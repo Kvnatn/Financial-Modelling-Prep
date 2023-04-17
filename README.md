@@ -21,5 +21,5 @@ The best way to take full advantage of this project is to:
 ## Improvement
 
 When I will have time, I will add some content to this project such as:
-* Machine Learning Model with forecast
-* Technical Analysis
+* Making titles and text clearer
+* Making company to company comparisons
